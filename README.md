@@ -58,3 +58,10 @@ A lightweight authentication hub built with Django and JWT for managing access a
    python --version  # Should show 3.13.0
    pip install -r requirements.txt
    ```
+
+
+todo:
+
+starting a postgresql database on local
+
+getting the initial migrations... not sure how to do that
