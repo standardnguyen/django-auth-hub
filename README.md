@@ -21,10 +21,17 @@ A lightweight authentication hub built with Django and JWT for managing access a
 
 ### Environment Setup
 
+1. install [pyenv]( if 3.13 isn't your default python version)
+
+pyenv install 3.13.2
+
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/standardnguyen/django-auth-hub.git
    cd django-auth-hub
+   pyenv local 3.13.2
    ```
 
 2. Create a `.env` file in the project root with the following variables:
