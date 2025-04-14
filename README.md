@@ -26,7 +26,6 @@ A lightweight authentication hub built with Django and JWT for managing access a
 pyenv install 3.13.2
 
 
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/standardnguyen/django-auth-hub.git
